@@ -1,0 +1,4 @@
+Conteúdo do arquivo 1.
+Esta é a segunda linha do arquivo 1.
+Conteúdo do arquivo 2.
+Esta é a segunda linha do arquivo 2.
